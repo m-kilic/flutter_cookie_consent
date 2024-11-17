@@ -11,14 +11,14 @@ dependencies:
   flutter:
     sdk: flutter
 
-  modal_bottom_sheet: ^2.1.2
+  modal_bottom_sheet: ^3.0.0
   shared_preferences: ^2.0.15
   url_launcher: ^6.1.7
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
-  flutter_lints: ^2.0.0
+  flutter_lints: ^5.0.0
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
